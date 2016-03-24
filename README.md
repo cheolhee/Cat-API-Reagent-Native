@@ -49,6 +49,7 @@ iOS시뮬레이터가 뜹니다. 빨간 에러 화면이 뜨나요?
 $ re-natal use-figwheel
 $ lein figwheel ios
 ```
+![Hello ClojureScript in iOS and Android](https://github.com/cheolhee/Cat-API-Reagent-Native/raw/master/hello_reagent.jpg )
 
 "Hello Clojure in iOS and Android!" 화면이 보이나요? 자 이제 마지막 단계입니다.
 
@@ -60,6 +61,9 @@ $ lein figwheel ios
 figwheel 이 알아서 재빌드합니다.
 
 "Call Cat API" 버튼을 누르면 고양이 사진이 뜹니다.
+
+![Cat API Result](https://github.com/cheolhee/Cat-API-Reagent-Native/raw/master/reagent_native.jpg)
+
 
 # TO DOs
 ---
