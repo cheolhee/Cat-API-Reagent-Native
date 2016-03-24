@@ -7,11 +7,11 @@ Cheolhee Han, MIT License
 Reagent JS는 사례가 종종 보이나 Reagent Native는 예제 프로젝트가 "아직은" 잘 없습니다.
 
 작년 가을 [ReactNativeDuckie](https://github.com/cheolhee/ReactNativeDuckie) 앱을 하나 만들어 보고 한동안 관심을 끊었었습니다.
-최근 [re-natal](https://github.com/drapanjanas/re-natal) 이란 bootstrap 을 돌려 봤는데, 이제는 많이 편해졌더군요.
+최근 [re-natal](https://github.com/drapanjanas/re-natal) 이란 bootstrap 을 돌려 봤는데, 이제는 정말 많이 편해졌더군요.
 
 [Web Development with Clojure, 2nd Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)의 6장에  [Compojure-api](https://github.com/metosin/compojure-api) 를 이용한 Cat API를 만들기가 나옵니다. (고양이 사진을 퍼오는 API입니다.)
 
-책에서는 Web으로 고양이 그림을 띄워주는 Web을 간략하게 만드는데, 이것을 Reagent Native를 이용하여 iOS앱으로 만들었습니다.
+책에서는 Web으로 고양이 그림을 띄워주는 간략한 페이지를 만드는데, 이것을 Reagent Native를 이용하여 iOS앱으로 만들었습니다.
 
 # Usage
 ---
@@ -73,4 +73,4 @@ figwheel 이 알아서 재빌드합니다.
 ## 그밖에..
 ---
 * ListView 구현은 https://github.com/mfikes/reagent-react-native 를 참고로 했습니다.
-* `react-native` 폴더의 소스는 React Native ( JSX ) 용으로 만든 것입니다. 비교보셔도 좋습니다.
+* `react-native` 폴더의 소스는 React Native ( JSX ) 용으로 만든 것입니다. 비교해 보셔도 좋습니다.
